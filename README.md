@@ -1,10 +1,5 @@
 ### Hi there, I'm Philasande Ngcamu. You may call me Phila 👋
 
-<!--
-**PhilaNgcamu/PhilaNgcamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React Native projects at Umuzi.org...
 - 🌱 I’m currently learning React Native...
 - 👯 I’m looking to collaborate on GitHub
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn - Philasande (Happy) Ngcamu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
