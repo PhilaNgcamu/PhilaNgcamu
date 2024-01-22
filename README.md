@@ -41,11 +41,11 @@
   <a href="https://www.linkedin.com/in/philasande-ngcamu-282992207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/PhilaNgcamu?t=59P2Zy1XoTnuDOQ22KwIAQ&s=08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.instagram.com/philasande.ngcamu/?igsh=YzljYTk1ODg3Zg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    <a href="https://x.com/PhilaNgcamu?t=59P2Zy1XoTnuDOQ22KwIAQ&s=08">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:philangcamu07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
