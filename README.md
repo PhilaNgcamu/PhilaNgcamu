@@ -9,14 +9,15 @@
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about any tech related stuff
 
+<hr />
 
 ### Stats 📊
-<hr />
 
 ![Phila's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilaNgcamu&show_icons=true&rank_icon=github&theme=ambient_gradient) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PhilaNgcamu&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### Languages and Tools 👨🏻‍💻
 <hr />
+
+### Languages and Tools 👨🏻‍💻
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,8 +33,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### How to reach me 📍
 <hr />
+### How to reach me 📍
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/philasande-ngcamu-282992207/">
