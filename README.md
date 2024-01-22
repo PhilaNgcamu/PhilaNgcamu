@@ -47,8 +47,8 @@
   <a href="https://www.instagram.com/philasande.ngcamu/?igsh=YzljYTk1ODg3Zg%3D%3D">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://philangcamu.github.io/website/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Portflio Badge"/>
+  <a href="mailto:philangcamu07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil Badge"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61554516852707&mibextid=98BtzZNkros8nYVe">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
