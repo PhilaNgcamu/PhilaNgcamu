@@ -1,10 +1,13 @@
-### Hi there, I'm Philasande Ngcamu. You may call me Phila 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+### Hi there👋, I'm Philasande Ngcamu. You may call me Phila 
 
 - 🔭 I’m currently working on React Native projects..
 - 🌱 I’m currently learning React Native...
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about any tech related stuff
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/philasande-ngcamu-282992207/?originalSubdomain=za)
 
 
 ### Stats 📊
@@ -27,5 +30,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain-wordmark.svg" title="Jasmine" alt="Jasmine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+### How to reach me 📍
+<hr />
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/philasande-ngcamu-282992207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/PhilaNgcamu?t=59P2Zy1XoTnuDOQ22KwIAQ&s=08">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/philasande.ngcamu/?igsh=YzljYTk1ODg3Zg%3D%3D">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://philangcamu.github.io/website/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Portflio Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61554516852707&mibextid=98BtzZNkros8nYVe">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
