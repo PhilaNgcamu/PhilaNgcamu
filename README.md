@@ -4,9 +4,9 @@
 
 ### Hi there👋, I'm Philasande Ngcamu. You may call me Phila 
 
-- 🔭 I’m currently working on React Native projects..
-- 🌱 I’m currently learning React Native...
-- 👯 I’m looking to collaborate on GitHub
+- 🔭 I’m currently working on React Native projects
+- 🌱 I’m currently learning React Native
+- 👯 I’m passionate about code reviews and problem solving
 - 💬 Ask me about any tech related stuff
 
 <hr />
