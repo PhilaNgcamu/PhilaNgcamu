@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### Hi there👋, I'm Philasande Ngcamu. You may call me Phila 
+### Hi there👋, I'm Philasande Ngcamu. You may call me Phila (pronounced as "PEE-la")
 
 - 🔭 I’m currently working on React Native projects
 - 🌱 I’m currently learning React Native
