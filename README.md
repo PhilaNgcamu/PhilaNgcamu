@@ -4,10 +4,8 @@
 
 ### Hi there👋, I'm Philasande Ngcamu. You may call me Phila (pronounced as "PEE-la")
 
-- 🔭 I’m currently working on React Native projects
-- 🌱 I’m currently learning React Native
-- 👯 I’m passionate about code reviews and problem solving
-- 💬 Ask me about any tech related stuff
+- 🔭 I’m an aspiring UI/UX Developer
+- 👯 I’m passionate about code reviews, problem solving and UI/UX Design
 
 <hr />
 
