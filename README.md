@@ -4,7 +4,7 @@
 
 ### Hi there👋, I'm Philasande Ngcamu. You may call me Phila (pronounced as "PEE-la")
 
-- 🔭 I’m an aspiring UI/UX Developer
+- 🔭 I’m a Full Stack Web Developer
 - 👯 I’m passionate about code reviews, problem solving and UI/UX Design
 
 <hr />
