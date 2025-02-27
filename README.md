@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Philasande Ngcamu. You may call me Phila (pronounced as "PEE-la")
 
-- 🔭 I’m a junior software developer
+- 🔭 I’m a software developer
 - 👯 I’m passionate about code reviews, problem solving and UI/UX Design
 
 <hr />
